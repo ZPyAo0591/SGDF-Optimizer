@@ -24,8 +24,15 @@
 <h4 align="center">CVPR 2026</h4>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2603.06120"><img src="https://img.shields.io/badge/arXiv-2603.06120-b31b1b.svg" alt="arXiv"></a>
-  <a href="https://pytorch.org/get-started/locally/"><img src="https://img.shields.io/badge/PyTorch-2.0.0%2B-red.svg" alt="PyTorch"></a>
+  <a href="https://arxiv.org/abs/2311.02818">
+    <img src="https://img.shields.io/badge/arXiv-2311.02818-b31b1b.svg" alt="arXiv 2023">
+  </a>
+  <a href="https://arxiv.org/abs/2603.06120">
+    <img src="https://img.shields.io/badge/arXiv-2603.06120-b31b1b.svg" alt="arXiv 2026">
+  </a>
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Yao_Dynamic_Momentum_Recalibration_in_Online_Gradient_Learning_CVPR_2026_paper.html">
+    <img src="https://img.shields.io/badge/CVPR-2026-blue.svg" alt="CVPR 2026">
+  </a>
 </p>
 
 
