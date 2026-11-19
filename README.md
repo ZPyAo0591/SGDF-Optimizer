@@ -135,6 +135,15 @@ This project is released under the MIT License. See [LICENSE](./LICENSE) for det
 If you find this repository useful, please consider giving it a star ⭐ and citing our work 📄.
 
 ```bibtex
+@article{yao2023signal,
+  title={Signal processing meets sgd: from momentum to filter},
+  author={Yao, Zhipeng and Yu, Rui and Chang, Guisong and Li, Ying and Zhang, Yu and Li, Dazhou},
+  journal={arXiv preprint arXiv:2311.02818},
+  year={2023}
+}
+```
+or
+```bibtex
 @article{yao2026dynamic,
   title={Dynamic Momentum Recalibration in Online Gradient Learning},
   author={Yao, Zhipeng and Yu, Rui and Chang, Guisong and Li, Ying and Zhang, Yu and Li, Dazhou},
@@ -142,5 +151,3 @@ If you find this repository useful, please consider giving it a star ⭐ and cit
   year={2026}
 }
 ```
-
-
