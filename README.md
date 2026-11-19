@@ -1,4 +1,6 @@
-<h1 align="center">Dynamic Momentum Recalibration in Online Gradient Learning</h1>
+<h1 align="center">Signal Processing Meets SGD: From Momentum to Filter</h1>
+
+<h3 align="center">Dynamic Momentum Recalibration in Online Gradient Learning</h3>
 
 <p align="center">
   <a>Zhipeng Yao</a><sup>1,2</sup> •
