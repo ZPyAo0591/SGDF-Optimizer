@@ -42,6 +42,7 @@
 
 ## 🔥 News
 
+- **2026.06**: SGDF was published at CVPR 2026. The paper is available on CVF Open Access.
 - **2026.03**: SGDF was accepted to CVPR 2026.
 
 
@@ -122,7 +123,7 @@ The experimental code is organized by benchmark. Please refer to the correspondi
 - `Convolution Networks/`: CIFAR and ImageNet classification experiments.
 - `Vision Transformer/`: frozen-backbone ViT post-training experiments.
 - `Language Modeling/ LSTM/`: language modeling experiments.
-- 
+
 ## 🎓 Related GitHub Repositories
 
 Some of the experimental code in our paper was borrowed from the following repositories. We sincerely thank these authors for their excellent open-source contributions.
@@ -139,11 +140,11 @@ This project is released under the MIT License. See [LICENSE](./LICENSE) for det
 
 ## 📚 Citation
 
-If you find this repository useful, please consider giving it a star ⭐ and citing our work 📄.
+If you find this repository useful, please star it ⭐ and cite our work 📄.
 
 ```bibtex
 @article{yao2023signal,
-  title={Signal processing meets sgd: from momentum to filter},
+  title={Signal Processing Meets SGD: From Momentum to Filter},
   author={Yao, Zhipeng and Yu, Rui and Chang, Guisong and Li, Ying and Zhang, Yu and Li, Dazhou},
   journal={arXiv preprint arXiv:2311.02818},
   year={2023}
