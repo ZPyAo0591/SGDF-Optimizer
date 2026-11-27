@@ -105,6 +105,13 @@ for Muon orthogonalization.
 
 Main options include `lr`, `betas`, `eps`, `gamma`, `weight_decay`, `weight_decouple`, `maximize`, `use_sign`, `use_muon`, `foreach`, `foreach_max_bytes`, `fused`, `capturable`, `ns_steps`, `muon_distributed`, `muon_gram_max_dim`, `muon_gather_max_bytes`, `muon_compute_dtype`, `muon_ddp`, `muon_ddp_min_numel`, and `muon_ddp_bucket_bytes`.
 
+
 The default `gamma=None` selects 0.5 for standard/Muon SGDF and 1.0 for Sign-SGDF. Sparse gradients and differentiable optimizer steps are not supported.
 
-License: MIT.
+## Acknowledgements
+
+We thank [Shuo Liu](https://github.com/neo12323) for his valuable assistance in testing and validating the SGDF Python package.
+
+## License
+
+SGDF is released under the [MIT License](LICENSE).
