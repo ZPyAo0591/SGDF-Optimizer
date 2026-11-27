@@ -35,11 +35,11 @@
   <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Yao_Dynamic_Momentum_Recalibration_in_Online_Gradient_Learning_CVPR_2026_paper.html">
     <img src="https://img.shields.io/badge/CVPR-2026-blue.svg" alt="CVPR 2026">
   </a>
-  <a href="https://pypi.org/project/sgdf/">
-    <img src="https://img.shields.io/pypi/v/sgdf" alt="PyPI">
+  <a href="https://pypi.org/project/SGDF/">
+    <img src="https://img.shields.io/pypi/v/SGDF.svg" alt="PyPI">
   </a>
-  <a href="https://pepy.tech/projects/sgdf">
-    <img src="https://api.pepy.tech/badge/sgdf" alt="Downloads">
+  <a href="https://pypi.org/project/SGDF/">
+    <img src="https://img.shields.io/pypi/dm/SGDF.svg" alt="Downloads">
   </a>
 </p>
 
