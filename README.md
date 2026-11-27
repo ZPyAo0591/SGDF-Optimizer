@@ -1,4 +1,4 @@
-# SGDF — Signal Processing Meets SGD
+# SGDF Optimizer
 
 SGDF is a PyTorch optimizer providing three update modes in a single `torch.optim.Optimizer` interface: **SGDF**, **Sign-SGDF**, and **Muon + SGDF**.
 
