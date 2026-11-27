@@ -38,8 +38,8 @@
   <a href="https://pypi.org/project/sgdf/">
     <img src="https://img.shields.io/pypi/v/sgdf" alt="PyPI">
   </a>
-  <a href="https://pypistats.org/packages/sgdf">
-    <img src="https://img.shields.io/pypi/dm/sgdf" alt="Downloads">
+  <a href="https://pepy.tech/project/sgdf">
+    <img src="https://static.pepy.tech/badge/sgdf" alt="Downloads">
   </a>
 </p>
 
