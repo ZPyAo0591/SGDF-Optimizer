@@ -1,4 +1,5 @@
 
+
 # SGDF Optimizer
 
 [![PyPI](https://img.shields.io/pypi/v/SGDF)](https://pypi.org/project/SGDF/)
@@ -7,14 +8,18 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-Official Python package of SGDF, providing three
-update modes in a unified PyTorch optimizer interface:
+Official Python package of SGDF, providing three update modes
+in a unified PyTorch optimizer interface:
 **SGDF**, **Sign-SGDF**, and **Muon + SGDF**.
 
-For the theoretical foundations, experimental results,
-and citations, please refer to our
-[CVPR 2026 paper](https://arxiv.org/abs/2603.06120)
-and the [main branch](https://github.com/ZPyAo0591/SGDF-Optimizer/tree/main).
+**Related papers:**
+
+- [Dynamic Momentum Recalibration in Online Gradient Learning](https://arxiv.org/abs/2603.06120) (CVPR 2026).
+- [Signal Processing Meets SGD: From Momentum to Filter](https://arxiv.org/abs/2311.02818) (arXiv 2023).
+
+For theoretical foundations, experimental results, reproducibility,
+and citation information, please refer to the
+[main branch](https://github.com/ZPyAo0591/SGDF-Optimizer/tree/main).
 
 ## Installation
 
