@@ -48,6 +48,32 @@
 - **2026.03**: SGDF was accepted to CVPR 2026.
 
 
+## 🚀 Quick Start
+
+SGDF is available as an official Python package on PyPI.
+
+### Installation
+
+```bash
+pip install SGDF
+```
+
+### Usage
+
+```python
+from SGDF import SGDF
+
+optimizer = SGDF(model.parameters(), lr=0.1)
+```
+
+The package provides three update modes: **SGDF**, **Sign-SGDF**, and **Muon + SGDF**, with optional Triton acceleration and distributed training support.
+
+For detailed usage, configuration, and advanced features, please refer to:
+
+- [Python Package](https://github.com/ZPyAo0591/SGDF-Optimizer/tree/pypi)
+- [Usage Guide](https://github.com/ZPyAo0591/SGDF-Optimizer/blob/pypi/USAGE.md)
+- [PyPI](https://pypi.org/project/SGDF/)
+
 ## 💡 Motivation
 
 Standard momentum methods use fixed coefficients, which often force a rigid trade-off between gradient bias and gradient variance. Excessive smoothing may slow down convergence and trap the optimizer in plateaus, while insufficient regulation of stochastic noise can lead to unstable updates and oscillations.
