@@ -1,22 +1,35 @@
+
 # SGDF Optimizer
 
-SGDF is a PyTorch optimizer providing three update modes in a single `torch.optim.Optimizer` interface: **SGDF**, **Sign-SGDF**, and **Muon + SGDF**.
+[![PyPI](https://img.shields.io/pypi/v/SGDF)](https://pypi.org/project/SGDF/)
+[![Downloads](https://img.shields.io/pypi/dm/SGDF)](https://pypi.org/project/SGDF/)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c)](https://pytorch.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-Reference: [Signal Processing Meets SGD: From Momentum to Filter](https://arxiv.org/abs/2311.02818).
+Official Python package of SGDF, providing three
+update modes in a unified PyTorch optimizer interface:
+**SGDF**, **Sign-SGDF**, and **Muon + SGDF**.
+
+For the theoretical foundations, experimental results,
+and citations, please refer to our
+[CVPR 2026 paper](https://arxiv.org/abs/2603.06120)
+and the [main branch](https://github.com/ZPyAo0591/SGDF-Optimizer/tree/main).
 
 ## Installation
 
 ```bash
-pip install .
+pip install SGDF
 ```
 
-Or install the distributed `.whl` directly with `pip install <wheel-file>`.
-
-Python 3.9+ and PyTorch 2.0+ are required. Triton is an optional dependency used only with `fused=True`:
+With optional Triton support:
 
 ```bash
-pip install '.[triton]'
+pip install "SGDF[triton]"
 ```
+
+Python 3.9+ and PyTorch 2.0+ are required.
+
 
 ## Basic usage
 
